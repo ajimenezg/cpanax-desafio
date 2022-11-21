@@ -2,6 +2,8 @@
 
 La presente es evaluar sus habilidades tecnicas en base a una serie de desafios que les planteare mas adelante, ustedes deciden cual tomar y hasta donde llegar.
 
+Sientanse libres de usar estos desafios en sus cuentas de git para sus portafolios
+
 
 Se evaluara: 
  - Diseño de las tarjetas.
@@ -15,6 +17,7 @@ Se evaluara:
  - Optimizaciones de codigo
  - Optimizaciones de render
  - Estimacion de tiempo vs cumplimiento por desafio.
+ - Despliege en alguna host como [netlify](https://www.netlify.com/), [vercel](https://vercel.com/) o el que estes usando actualmente.
 
 
 ## Desafio 1: Elaborar una lista de productos
