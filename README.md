@@ -1,4 +1,4 @@
-# Desafios 
+# Desafios CPANAX: Rol Desarrollador en REACT
 
 La presente es evaluar sus habilidades tecnicas en base a una serie de desafios que les planteare mas adelante, ustedes deciden cual tomar y hasta donde llegar.
 
