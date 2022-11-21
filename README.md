@@ -1,4 +1,4 @@
-# Desafios CPANAX: Rol Desarrollador en REACT
+# Desafios CPANAX: Desarrollador en React
 
 La presente es evaluar sus habilidades tecnicas en base a una serie de desafios que les planteare mas adelante, ustedes deciden cual tomar y hasta donde llegar.
 
@@ -15,7 +15,6 @@ Se evaluara:
  - Optimizaciones de codigo
  - Optimizaciones de render
  - Estimacion de tiempo vs cumplimiento por desafio.
- - 
 
 
 ## Desafio 1: Elaborar una lista de productos
@@ -28,7 +27,7 @@ Se requiere obtener de un servicio los productos y elaborar una lista, para ello
  - Opcional: Modal al darle click a la tarjeta con galeria de imagenes.
 
 
-**Libreria para realizar la peticion**: axios
+**Libreria para realizar la peticion**: [axios](https://www.npmjs.com/package/axios)
 
 **URL del servicio**: https://dummyjson.com/products 
 
@@ -42,9 +41,9 @@ Se requiere obtener de una servicio la informacion de los usuarios de la aplicac
  - Los campos a representar: firstName, lastName, age, username, ip, image (opcional)
  - Opcional: Modal que muestre informacion complementaria del usuario.
 
-**Libreria para Tablas**: react-base-table
+**Libreria para Tablas**: [react-base-table](https://www.npmjs.com/package/react-base-table)
 
-**Libreria para realizar la peticion**: axios
+**Libreria para realizar la peticion**: [axios](https://www.npmjs.com/package/axios)
 
 **URL del servicio**: https://dummyjson.com/users
 
@@ -58,8 +57,11 @@ Se requiere elaborar un diagrama donde se represente el flujo de la aplicacion, 
  - Al dar click en el header de la tarjeta llamar una modal con un Formulario que permita cambiar el titulo y descripciones de la tarjeta.
  - Un boton + (Agregar) en la tarjeta para crear un nuevo nodo generico.
 
-**Libreria sugerida para el diagrama**: reactflow
+**Libreria sugerida para el diagrama**: [reactflow](https://www.npmjs.com/package/reactflow)
+
 **Libreria sugerida para los formularios**: Queda a su eleccion
+
 **Libreria sugerida para la modal**: Queda a su eleccion
+
 **Archivo de datos**: [data.js](https://github.com/ajimenezg/cpanax-desafio/blob/main/diagrama/data.js)
-**Libreria de Iconos usado en la data**: https://materialdesignicons.com/ de igual manera puedes elegir otro
+
