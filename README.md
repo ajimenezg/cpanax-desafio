@@ -14,6 +14,8 @@ Se evaluara:
  - Majejo de Estados
  - Optimizaciones de codigo
  - Optimizaciones de render
+ - Estimacion de tiempo vs cumplimiento por desafio.
+ - 
 
 
 ## Desafio 1: Elaborar una lista de productos
@@ -27,6 +29,7 @@ Se requiere obtener de un servicio los productos y elaborar una lista, para ello
 
 
 **Libreria para realizar la peticion**: axios
+
 **URL del servicio**: https://dummyjson.com/products 
 
 
@@ -40,7 +43,9 @@ Se requiere obtener de una servicio la informacion de los usuarios de la aplicac
  - Opcional: Modal que muestre informacion complementaria del usuario.
 
 **Libreria para Tablas**: react-base-table
+
 **Libreria para realizar la peticion**: axios
+
 **URL del servicio**: https://dummyjson.com/users
 
 
@@ -56,5 +61,5 @@ Se requiere elaborar un diagrama donde se represente el flujo de la aplicacion, 
 **Libreria sugerida para el diagrama**: reactflow
 **Libreria sugerida para los formularios**: Queda a su eleccion
 **Libreria sugerida para la modal**: Queda a su eleccion
-**Archivo de datos**: data.js
+**Archivo de datos**: [data.js](https://github.com/ajimenezg/cpanax-desafio/blob/main/diagrama/data.js)
 **Libreria de Iconos usado en la data**: https://materialdesignicons.com/ de igual manera puedes elegir otro
