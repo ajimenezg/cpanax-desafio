@@ -1,8 +1,8 @@
 # CPANAX: Desarrollador en React
 
-La presente es evaluar sus habilidades tecnicas en base a una serie de desafios que les planteare mas adelante, ustedes deciden cual tomar y hasta donde llegar.
+La presente es evaluar sus habilidades tecnicas en base a una serie de desafíos que les planteare mas adelante, ustedes deciden cual tomar y hasta donde llegar.
 
-Sientanse libres de usar estos desafios en sus cuentas de git para sus portafolios
+Sientanse libres de usar estos desafíos en sus cuentas de git para sus portafolios
 
 
 Se evaluara: 
@@ -10,39 +10,39 @@ Se evaluara:
  - Diseño del panel (si aplica en el requerimiento).
  - Diseño de la Pagina.
  - Habilidad en seguir instrucciones.
- - Habilidad en la ejecucion de la tarea.
+ - Habilidad en la ejecución de la tarea.
  - Conocimientos en React
  - Manejo de Formularios (si aplica en el requerimiento).
- - Majejo de Estados
- - Optimizaciones de codigo
- - Optimizaciones de render
- - Estimacion de tiempo vs cumplimiento por desafio.
- - Despliege en alguna host como [netlify](https://www.netlify.com/), [vercel](https://vercel.com/) o el que estes usando actualmente.
+ - Majejo de Estados.
+ - Optimizaciones de codigo.
+ - Optimizaciones de render.
+ - Estimación de tiempo vs cumplimiento por desafío.
+ - Despliege en algún host como [netlify](https://www.netlify.com/), [vercel](https://vercel.com/) o el que estes usando actualmente.
 
 
-## Desafio 1: Elaborar una lista de productos
+## Desafío 1: Elaborar una lista de productos
 
 Se requiere obtener de un servicio los productos y elaborar una lista, para ello sera necesario:
 
  - Poder cambiar la cantidad de tarjetas por filas a mostrar, por defecto mostrar 4 tarjetas en la fila.
- - Paginacion (No obligatorio)
+ - Paginación (No obligatorio)
  - Representar: Imagen, titulo y marca
  - Opcional: Modal al darle click a la tarjeta con galeria de imagenes.
 
 
-**Libreria para realizar la peticion**: [axios](https://www.npmjs.com/package/axios)
+**Libreria para realizar la petición**: [axios](https://www.npmjs.com/package/axios)
 
 **URL del servicio**: https://dummyjson.com/products 
 
 
 
-## Desafio 2: Elaborar una Tabla con los usuarios de la app
+## Desafío 2: Elaborar una Tabla con los usuarios de la app
 
-Se requiere obtener de una servicio la informacion de los usuarios de la aplicacion, para ello sera necesario:
+Se requiere obtener de una servicio la información de los usuarios de la aplicación, para ello sera necesario:
 
- - Paginacion de los datos
+ - Paginación de los datos
  - Los campos a representar: firstName, lastName, age, username, ip, image (opcional)
- - Opcional: Modal que muestre informacion complementaria del usuario.
+ - Opcional: Modal que muestre información complementaria del usuario.
 
 **Libreria para Tablas**: [react-base-table](https://www.npmjs.com/package/react-base-table)
 
@@ -52,7 +52,7 @@ Se requiere obtener de una servicio la informacion de los usuarios de la aplicac
 
 
 
-## Desafio 3: Elaborar un Diagrama de Recursos
+## Desafío 3: Elaborar un Diagrama de Recursos
 
 Se requiere elaborar un diagrama donde se represente el flujo de la aplicacion, para ello sera necesario disponer:
 
