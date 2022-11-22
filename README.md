@@ -1,4 +1,4 @@
-# CPANAX: Desarrollador en React
+# ![android-icon-48x48](https://user-images.githubusercontent.com/6616670/203347014-4b5f6081-4bff-4ffc-bbd0-e18f4f5559bc.png) CPANAX: Desarrollador en React
 
 La presente es evaluar sus habilidades tecnicas en base a una serie de desafíos que les planteare mas adelante, ustedes deciden cual tomar y hasta donde llegar.
 
