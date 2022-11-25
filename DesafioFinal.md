@@ -2,7 +2,9 @@
 
 Enhorabuena, 
 
-Quiero felicitarte por tu esfuerzo y dedicación en desarrollo de esta evaluaciones, sabemos que tu tiempo es oro al igual que el nuestro y entendemos que también quieres dar el salto a nuevos retos que nuestros desafíos son solo un abre bocas de lo que se puede hacer en CPANAX. 
+Quiero agradecerte por tomarte el tiempo en llegar a la oferta y felicitarte por tu esfuerzo, dedicación en realizar estas evaluaciones, sabemos que tu tiempo es oro al igual que el nuestro y entendemos que también quieres dar el salto a nuevos retos que nuestros desafíos son solo un abre bocas de lo que se puede hacer en CPANAX. 
+
+Ya tenemos los resultados, las evaluaciones han estado muy cerradas y solo nos quedan 2 vacantes mas. He de señalar que ha sido un reto interesante poder evaluar con criterio y dar las oportunidades a todos por lo que nos gastaría incluirte en una segunda evaluación de desafío para poder determinar si te unirás a nuestro equipo conforme a tus aspiraciones.
 
 Para este ultimo desafío queremos unir los 3 anteriores en uno solo convirtiendo los opcionales en obligatorio y creando una navegación con react-router-dom para poder ver cada uno de sus trabajos.
 
