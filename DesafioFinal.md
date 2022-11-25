@@ -63,6 +63,8 @@ Se requiere elaborar un diagrama donde se represente el flujo de la aplicación,
  - Panel lateral donde se tenga las opciones que permitan arrastrar y soltar.
  - Un botón + (Agregar) en la tarjeta para crear un nuevo nodo genérico.
 
+[Imagen de Ejemplo](https://github.com/ajimenezg/cpanax-desafio/blob/main/diagrama/diagrama_ejemplo.JPG)
+ 
 **Librería sugerida para el diagrama**: [reactflow](https://www.npmjs.com/package/reactflow)
 
 **Archivo de datos**: [data.js](https://github.com/ajimenezg/cpanax-desafio/blob/main/diagrama/data.js)
