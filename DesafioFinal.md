@@ -24,6 +24,7 @@ Se evaluara:
  - Optimizaciones de codigo.
  - Optimizaciones de render.
  - Despliege en algún host como [netlify](https://www.netlify.com/), [vercel](https://vercel.com/) o el que estes usando actualmente.
+ - Enviar la URL de GIT donde tendran el codigo fuente.
 
 Nota: Pueden usar las librerias de diseño como tambien el lenguaje que les permita ser mas rapido y productivos.
 
