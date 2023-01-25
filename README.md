@@ -4,7 +4,7 @@ La presente es evaluar sus habilidades tecnicas en base a una serie de desafíos
 
 Sientanse libres de usar estos desafíos en sus cuentas de git para sus portafolios.
 
-*Nota: Pueden hacer uno o varios desafios.*
+*Nota: Deben realizar los primeros 3 desafios, el ultimo es un extra pero opcional.*
 
 Se evaluara: 
  - Diseño de las tarjetas.
@@ -19,7 +19,6 @@ Se evaluara:
  - Optimizaciones de render.
  - Estimación de tiempo vs cumplimiento por desafío.
  - Despliege en algún host como [netlify](https://www.netlify.com/), [vercel](https://vercel.com/) o el que estes usando actualmente.
- - Numero de desafios realizados.
 
 
 ## Desafío 1: Elaborar una lista de productos
@@ -27,9 +26,9 @@ Se evaluara:
 Se requiere obtener de un servicio los productos y elaborar una lista, para ello sera necesario:
 
  - Poder cambiar la cantidad de tarjetas por filas a mostrar, por defecto mostrar 4 tarjetas en la fila.
- - Paginación (No obligatorio)
+ - Paginación 
  - Representar: Imagen, titulo y marca
- - Opcional: Modal al darle click a la tarjeta con galeria de imagenes.
+ - Modal que aparecera al momento de darle click a la tarjetay debe apaecer una galeria de imagenes.
 
 
 **Libreria para realizar la petición**: [axios](https://www.npmjs.com/package/axios)
@@ -44,7 +43,7 @@ Se requiere obtener de una servicio la información de los usuarios de la aplica
 
  - Paginación de los datos
  - Los campos a representar: firstName, lastName, age, username, ip, image (opcional)
- - Opcional: Modal que muestre información complementaria del usuario.
+ - Modal que muestre información complementaria del usuario.
 
 **Libreria para Tablas**: [react-base-table](https://www.npmjs.com/package/react-base-table)
 
@@ -69,4 +68,17 @@ Se requiere elaborar un diagrama donde se represente el flujo de la aplicacion, 
 **Libreria sugerida para la modal**: Queda a su eleccion
 
 **Archivo de datos**: [data.js](https://github.com/ajimenezg/cpanax-desafio/blob/main/diagrama/data.js)
+
+
+## Desafío 4 (Opcional): Elaborar un Kanban (Trello)
+
+Se requiere elaborar kanban donde contenga un panel de tareas que se arrastran a las columnas, para ello sera necesario disponer:
+
+ - Panel lateral donde se tenga las tareas que permitan arrastrar y soltar.
+ - Poder mover la tarjeta a diferentes Columns/Groups.
+ - Un boton + (Agregar) en el final de la columna para agregar una nueva tarea.
+
+**Libreria sugerida para el diagrama**: [@dnd-kit](https://www.npmjs.com/package/@dnd-kit/core)
+
+**Libreria sugerida para la modal**: Queda a su eleccion
 
